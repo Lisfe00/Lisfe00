@@ -2,9 +2,6 @@
 
 - 🔭 Hoje trabalhando com full stack
 - 🌱 Estudando ciências da computação
-- 👯 I’m looking to collaborate on ...
-- 📫 contate-me no email: luisfelipebelle10@gmail.com
-
 <div align="center">
   <a href="https://github.com/Lisfe00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisfe00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
