@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Luis Felipe 👋
 
 - 🔭 Hoje trabalhando com full stack
-- 🌱 Estudando ciências da computação
+- 🌱 Estudando ciência da computação
 <div align="center">
   <a href="https://github.com/Lisfe00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisfe00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
