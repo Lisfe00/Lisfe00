@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Luis Felipe 👋
 
-- 🔭 Hoje trabalhando com backend
+- 🔭 Hoje trabalhando com back-end
 - 🌱 Estudando ciência da computação
 <div align="center">
   <a href="https://github.com/Lisfe00">
