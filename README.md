@@ -4,7 +4,7 @@
 - 🌱 Estudando ciência da computação
 <div align="center">
   <a href="https://github.com/Lisfe00">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lisfe00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lisfe00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lisfe00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
